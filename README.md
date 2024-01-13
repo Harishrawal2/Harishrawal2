@@ -8,4 +8,7 @@ I am Full Stack Developer with Front-End and Back-End Developer. I have lots of 
 - 📫 How to reach me (Portfolio): ... https://harish-rawal.vercel.app/portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding Teaching/ Technical Content Creator.
+- 📖 Read Full Stack Blog: https://fullstackcode.in/
+
+
 
