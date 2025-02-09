@@ -1,6 +1,6 @@
 # Hi there, I'm Harish 👋
 
-I'm a Full Stack Developer with 2 years of experience specializing in React.js and 6 months of experience in Node.js development. I love building web applications that solve real-world problems.
+I'm a Full Stack Developer with 1.6 years of experience specializing in React.js and Node.js development. I love building web applications that solve real-world problems.
 
 - 🔭 I’m currently working on a Serviots Technology.
 - 🌱 I’m currently learning DSA and System Design.
