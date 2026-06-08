@@ -1,9 +1,6 @@
-```md
 <h1 align="center">Hi 👋, I'm Harish Rawal</h1>
 
-<h3 align="center">
-Full Stack Engineer | MERN Stack Developer | AI Product Builder
-</h3>
+<h3 align="center">Full Stack Engineer | MERN Stack Developer | AI Product Builder</h3>
 
 <p align="center">
 I build scalable web applications, AI-powered products, dashboards, APIs, and production-ready full-stack systems.
@@ -20,7 +17,7 @@ I build scalable web applications, AI-powered products, dashboards, APIs, and pr
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Engineer with nearly 3 years of experience** building scalable and high-performance web applications across **AI chatbots, SaaS platforms, ecommerce, healthcare/product management, and business applications**.
+I'm a **Full Stack Engineer with nearly 3 years of experience** building scalable and high-performance web applications across **AI chatbots, SaaS platforms, ecommerce systems, healthcare/product management platforms, and business applications**.
 
 Currently, I work as a **Full Stack Developer at Serviots**, where I build and maintain real-world products using **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, AWS, Docker, and Vercel**.
 
@@ -58,17 +55,20 @@ Currently, I work as a **Full Stack Developer at Serviots**, where I build and m
 ## 💼 Experience Highlights
 
 ### Full Stack Developer — Serviots
-- Working on scalable full-stack products using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, AWS, Docker, and Vercel
+
+- Building scalable full-stack products using **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, AWS, Docker, and Vercel**
 - Built and contributed to **MitraVarta AI Chatbot**
 - Worked on products like **Event Management Platform, Med Panel, Serviots.com, and PillQ.com**
 - Improved backend performance and frontend loading speed
 
 ### Full Stack Developer — Eyefounder
+
 - Built production-ready web apps, ecommerce platforms, admin panels, and APIs
 - Worked on **Omindri**, **Shivyantram**, and **Eyefounder.com**
 - Integrated JWT authentication and role-based access control
 
 ### Full Stack MERN Developer — Zafron Technology
+
 - Built ecommerce modules for RO water products
 - Developed product listing, order flow, backend APIs, and database models
 
@@ -77,18 +77,23 @@ Currently, I work as a **Full Stack Developer at Serviots**, where I build and m
 ## 🔥 Featured Projects
 
 ### 🤖 MitraVarta AI Chatbot
+
 AI chatbot platform with conversational UX, scalable APIs, and production deployment.
 
 ### 🧑‍💼 HRMS System
+
 HR management system for employee records, payroll, leave tracking, and admin workflows.
 
 ### 💊 Medicine Management System
+
 Medicine management platform with dashboards, admin workflows, and secure APIs.
 
 ### 🛒 Omindri Ecommerce Platform
+
 Ecommerce platform with product management, frontend pages, backend APIs, and order workflows.
 
 ### 🌐 PillQ.com
+
 Responsive product/company website with optimized UI and production deployment.
 
 ---
@@ -128,4 +133,3 @@ Responsive product/company website with optimized UI and production deployment.
 <p align="center">
   <b>“Building scalable full-stack products that solve real business problems.”</b>
 </p>
-```
