@@ -101,15 +101,24 @@ Responsive product/company website with optimized UI and production deployment.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishrawal2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Harishrawal2&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Harish Rawal GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishrawal2&theme=tokyonight" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Harishrawal2&theme=tokyonight&hide_border=true" 
+    alt="Harish Rawal GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishrawal2&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishrawal2&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Harish Rawal Top Languages" 
+  />
 </p>
 
 ---
