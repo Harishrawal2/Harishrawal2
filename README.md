@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full Stack Developer who enjoys building web applications, backend systems, and software products that solve real-world problems.
 
@@ -30,7 +30,7 @@ I also use AI to improve my productivity, simplify development tasks, and explor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -78,7 +78,7 @@ System Design • Design Patterns • Microservices • JWT Authentication • R
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - Full-stack web applications
 - Scalable backend systems and REST APIs
@@ -92,7 +92,7 @@ System Design • Design Patterns • Microservices • JWT Authentication • R
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Full Stack Developer — Serviots
 
@@ -122,9 +122,9 @@ Currently working on full-stack products and backend systems using modern web te
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🤖 MitraVarta AI Chatbot
+### MitraVarta AI Chatbot
 
 An AI-powered chatbot platform focused on conversational experiences and business use cases.
 
@@ -137,7 +137,7 @@ An AI-powered chatbot platform focused on conversational experiences and busines
 
 ---
 
-### 🧑‍💼 HRMS System
+### HRMS System
 
 A human resource management system designed to support employee and administrative workflows.
 
@@ -150,7 +150,7 @@ A human resource management system designed to support employee and administrati
 
 ---
 
-### 💊 Medicine Management System
+### Medicine Management System
 
 A pharmacy and medicine management platform focused on inventory and business operations.
 
@@ -163,7 +163,7 @@ A pharmacy and medicine management platform focused on inventory and business op
 
 ---
 
-### 🛒 Omindri E-commerce Platform
+### Omindri E-commerce Platform
 
 An e-commerce platform involving product management, customer-facing pages, and administrative workflows.
 
@@ -176,7 +176,7 @@ An e-commerce platform involving product management, customer-facing pages, and 
 
 ---
 
-### 🌐 PillQ.com
+### PillQ.com
 
 A responsive product/company website focused on user experience and production deployment.
 
@@ -189,7 +189,7 @@ A responsive product/company website focused on user experience and production d
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - System Design
@@ -202,7 +202,7 @@ A responsive product/company website focused on user experience and production d
 
 ---
 
-## 🎯 My Engineering Approach
+## My Engineering Approach
 
 I believe good software starts with understanding the problem.
 
@@ -219,7 +219,7 @@ Before building a solution, I focus on:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harish-rawal-b4024b211/">
