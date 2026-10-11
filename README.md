@@ -34,6 +34,37 @@ I believe software engineering is more than writing code — it's about understa
 
 ---
 
+
+## 💼 Roles & Responsibilities
+
+### Full Stack & Backend Engineering
+- Design, develop, and maintain scalable full-stack applications using React.js, Next.js, Node.js, and TypeScript.
+- Build secure RESTful APIs with JWT authentication, RBAC, rate limiting, and request validation.
+- Develop reusable UI components, admin dashboards, and seamless frontend–backend integrations.
+
+### System Design & Database Management
+- Contribute to application architecture, database schema design, and scalable backend solutions.
+- Optimize PostgreSQL and MongoDB queries using indexing, Prisma, and Mongoose.
+- Improve application performance, maintainability, and reliability.
+
+### Cloud, DevOps & Deployment
+- Containerize applications using Docker and implement CI/CD workflows with GitHub Actions.
+- Deploy and maintain applications using AWS EC2, S3, and Vercel.
+- Debug production issues and support reliable application delivery.
+
+### AI Integration & Developer Productivity
+- Integrate OpenAI APIs into AI-powered applications and chatbot workflows.
+- Explore LLMs, RAG, and Generative AI technologies.
+- Use Cursor, ChatGPT, Claude, and Gemini for development assistance, debugging, research, and documentation.
+
+### Collaboration & Technical Mentorship
+- Participate in code reviews, pull request verification, and technical discussions.
+- Coordinate development tasks and guide team members on implementation and code quality.
+- Mentor students in Data Structures & Algorithms (DSA), problem-solving techniques, and coding fundamentals.
+
+
+---
+
 ## Professional Highlights
 
 - ⚡ Engineered **20+ secure REST APIs** with authentication, authorization, and rate limiting.
@@ -47,17 +78,17 @@ I believe software engineering is more than writing code — it's about understa
 
 ## Projects & Experience
 
-### 💊 ServiRx — Pharmacy Management SaaS
+### ServiRx — Pharmacy Management SaaS
 Worked on pharmacy workflows, inventory tracking, batch/expiry management, GST billing, and multi-tenant access control.
 
 **Tech:** Next.js, Node.js, PostgreSQL, Prisma
 
-### 🤖 MitraVarta — AI Chatbot
+### MitraVarta — AI Chatbot
 Worked on AI chatbot functionality with conversation context persistence, real-time streaming, and OpenAI API integration.
 
 **Tech:** Next.js, Node.js, OpenAI API, Docker, AWS
 
-### 👥 HRMS System
+### HRMS System
 Developed employee management, authentication, RBAC, and backend APIs.
 
 **Tech:** React.js, Node.js, Express.js, PostgreSQL
