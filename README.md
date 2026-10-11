@@ -35,7 +35,7 @@ I believe software engineering is more than writing code — it's about understa
 ---
 
 
-## 💼 Roles & Responsibilities
+## Roles & Responsibilities
 
 ### Full Stack & Backend Engineering
 - Design, develop, and maintain scalable full-stack applications using React.js, Next.js, Node.js, and TypeScript.
