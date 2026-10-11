@@ -1,7 +1,7 @@
 
 # Hi there, I'm Harish 👋
 
-### 🚀 Full Stack Software Engineer | Backend & SaaS Development
+### Full Stack Software Engineer | Backend & SaaS Development
 
 I'm a Full Stack Software Engineer with 3+ years of experience building scalable, secure, and production-ready web applications.
 
@@ -16,7 +16,7 @@ I believe software engineering is more than writing code — it's about understa
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python
 
@@ -34,7 +34,7 @@ I believe software engineering is more than writing code — it's about understa
 
 ---
 
-## 💼 Professional Highlights
+## Professional Highlights
 
 - ⚡ Engineered **20+ secure REST APIs** with authentication, authorization, and rate limiting.
 - 📈 Improved application page-load performance by **25%**.
@@ -45,7 +45,7 @@ I believe software engineering is more than writing code — it's about understa
 
 ---
 
-## 🚀 Projects & Experience
+## Projects & Experience
 
 ### 💊 ServiRx — Pharmacy Management SaaS
 Worked on pharmacy workflows, inventory tracking, batch/expiry management, GST billing, and multi-tenant access control.
@@ -66,7 +66,7 @@ Developed employee management, authentication, RBAC, and backend APIs.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harishrawal2&show_icons=true&hide_border=true)
 
